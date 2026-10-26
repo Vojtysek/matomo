@@ -1,0 +1,4 @@
+/config/config.ini.php
+/tmp/*
+.DS_Store
+!/tmp/index.htm
